@@ -1,0 +1,119 @@
+body
+{
+    background-color: white;
+    align-items: center;
+    text-align: center;
+}
+em
+{
+    font-size: large;
+    font-display: bold;
+    padding-left: 10%;
+}
+th
+{
+    padding: 3% 5%;
+}
+.container-fluid
+{
+    padding: 1% 15%;
+}
+.colored-section
+{
+    background-color: rgb(239, 246, 253);
+}
+.testimonial-image
+{
+    height: 400px;
+    width: 300px;
+}
+.carousel-item
+{
+    padding: 1%;
+    /* padding-left: 25%; */
+}
+.display-text
+{
+    padding-top: 15%;
+}
+.display-image
+{
+    height: 250px;
+    width: 350px;
+    padding-left: 20%;
+}
+.display 
+{
+    padding: 1% 15%;
+    background-color: rgb(227, 227, 239);
+}
+/* whats new */
+.whatsnew
+{
+    text-align: center;
+}
+.whats-new-img
+{
+    height: 300px;
+    width: 250px;
+}
+.card
+{
+    padding: 0% 5%;
+}
+/* wecome to club nyc */
+.nyc .row
+{
+    text-align: center;
+    background-color: rgb(243, 227, 253);
+}
+/* weadding */
+.weadding-new-img
+{
+    height: 280px;
+    width: 250px;
+}
+.weadding .row
+{
+    padding: 3%;
+}
+.weadding-new-img1
+{
+    height: 300px;
+    width: 500px;
+}
+/* more to explore */
+.mte-img
+{
+    height: 300px;
+    width: 300px;
+}
+/* back to top */
+.btt
+{
+    padding-top: 3%;
+}
+/* get the latest news  */
+.gtln
+{
+    background-color: rgb(227, 227, 239);
+    padding: 3% 15%;
+}
+.footer .container-fluid
+{
+    padding : 3% 20%
+}
+.foot-text
+{
+    color: black;
+    text-align: center;
+
+}
+#footer
+{
+    color: black;
+}
+.foot
+{
+    padding: 1%;
+}
